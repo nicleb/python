@@ -6,4 +6,3 @@ def sqrt(x):
 
 
 sqrt(25)
-print("hi")
